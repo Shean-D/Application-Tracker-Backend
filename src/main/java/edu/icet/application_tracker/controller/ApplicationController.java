@@ -34,6 +34,4 @@ public class ApplicationController {
         return service.deleteApplication(applicationDTO);
     }
 
-
-
 }
